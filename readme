@@ -1,0 +1,20 @@
+Name    - Sahil Jain
+Roll No - 20CS60R64
+Assingnment 8
+
+OS                      -  linux
+Programming Language    -  Python3
+Status                  -  Running Fine in my system.
+
+Compiling instruction - 
+Just run the following command for task 2 only.
+Task1.py is imported in task 2 only.
+--->  python3 task2.py
+
+
+Input Instruction - 
+1) Give genre name from the list given only.
+2) Input movie name with year of release like - Deadpool 2 (2018)
+3) Log file is created in the same directory.
+4) Field name is case insensitive.
+5) Movie Name is CASE SENSITIVE.
